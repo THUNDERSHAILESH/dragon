@@ -1,6 +1,6 @@
 
 #clonning repo 
-RUN git clone https://github.com/LEGEND-OS/LEGENDUSERBOT.git /root/userbot
+RUN git clone https://github.com/LEGEND-OS/DRAGONBOT.git /root/userbot
 
 #working directory 
 WORKDIR /root/userbot
