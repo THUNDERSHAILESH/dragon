@@ -1,7 +1,7 @@
 {
-  "name": "ℓεɠεɳ∂ɓσƭ",
-  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ ℓєgєи∂. Made with Love And By Python Language With Hardwork... ❤ ",
-  "logo": "https://telegra.ph/file/9144a914bce520f5bdf74.jpg",
+  "name": "🐲DRAGON🐲",
+  "description": "τнє ϐєѕτ υѕєяϐοτ мα∂є ϐγ SHAIL. Made with Love And By Python Language With Hardwork... ❤ ",
+  "logo": "https://telegra.ph/file/000b419ff41208fe63e2e.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "success_url": "https://t.me/LEGENDUSERBOT",
+  "repository": "https://github.com/LEGEND-OS/DRAGONBOT/",
+  
+  "success_url": "https://t.me/DRAGONUSERBOT",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -23,33 +23,33 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is LEGEND User",
-      "value": "ℓεɠεɳ∂ɓσƭ",
+      "description": "Fill your Full name. By default it is FRIEND OF SHAIL",
+      "value": "🐲FRIEND OF SHAIL🐲",
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
-      "value": "ℓεɠεɳ∂ɓσƭ ιѕ αℓινє",
+      "description": "Set Custom Alive Message When entering .alive Or .dragon  Command.",
+      "value": "🐲THE LITTLE DRAGON OF SHAIL ιѕ αℓινє",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .alive Or .legend command.",
-      "value": "https://telegra.ph/file/6749af524b4658e5c2b23.jpg",
+      "value": "https://telegra.ph/file/000b419ff41208fe63e2e.jpg",
       "required": false
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "ι αм ℓεɠεɳ∂.ϐϲοz ι αм υѕєя οƒ ℓεɠεɳ∂ɓσƭ",
+      "value": "🐲FRIEND OF SHAIL THE DRAGON 🐲",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/73800882b4e1723c2abd1.jpg",
+      "value": "https://telegra.ph/file/000b419ff41208fe63e2e.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "нєℓℓο ѕιя / мιѕѕ, ρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ ℓєgєи∂ϐοτ.ι ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,τнαиκγου!",
+      "value": "нєℓℓο🌹 ѕιя / мιѕѕ, ρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє 🐲MY DRAGON WILL KILL YOU 🦩.ι ωιℓℓ яєρℓγ υ ON COMING ONLINE ,💐τнαиκγου!",
       "required": false
     },
     "MAX_FLOOD_IN_P_M_s": {
@@ -164,7 +164,7 @@
     },
     "EMOJI_IN_HELP": {
       "description": "Set The emojies You Want to Add In Help Command!!",
-      "value": "⚜️",
+      "value": "🐉",
       "required": false
     }, 
     "TZ": {
