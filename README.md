@@ -85,7 +85,7 @@ FORK AT YOUR OWN RISK</h2>
     - 🐲String will be saved in your Saved Message.
 
 
-<h1 align="center">TO HOST LEGEND LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
+
 
 <h2 align="center"> <a href="https://github.com/LEGEND-OS/DRAGON USERBOT">⚡🐉 LITTLE DRAGON OF SHAIL🐉⚡</a></h2>
 
@@ -94,4 +94,4 @@ FORK AT YOUR OWN RISK</h2>
 
 
 
-  <h3 align="center">🐲ENJOY  YOUR LITTLE DRAGON MADE BY SHAIL 🐲</h3>
+  <h3 align="center">🐲ENJOY  YOUR LITTLE DRAGON MADE BY SHAIL WITH LOVE FOR YOU ALL USERS 🐲</h3>
