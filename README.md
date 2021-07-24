@@ -92,36 +92,6 @@ FORK AT YOUR OWN RISK</h2>
 
 
 
-<details>
 
-  <summary> • LICENSE • </summary>
 
-![](https://www.gnu.org/graphics/gplv3-or-later.png)
-
-LEGEND-OS
-
-Poject [DRAGON](https://github.com/LEGEND-OS/DRAGONBOT) is free software: you can redistribute it and/or modify
-
-it under the terms of the GNU General Public License as published by
-
-the Free Software Foundation, either version 3 of the License, or
-
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-
-along with this program. If not, see <https://www.gnu.org/licenses/>.
-
-</details>
-
-<details>
-
-  🐲ENJOY  YOUR LITTLE DRAGON MADE BY SHAIL 🐲
+  <h3 align="center">🐲ENJOY  YOUR LITTLE DRAGON MADE BY SHAIL 🐲</h3>
