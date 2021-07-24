@@ -1,5 +1,5 @@
 #!/bin/bash
-#   Copyright (C) 2021 LEGEND-OS
+#   Copyright (C) 2021 SHAIL-OS
 #
 #   Poject VΛDΣЯ is free software: 
 #   you can redistribute it and/or modify it under the terms of the GNU General Public License 
@@ -19,12 +19,12 @@ echo """
 ┏━━━┓          ┏┓    ┏┓
 ┃┏━┓┃          ┃┃   ┏┛┗┓
 ┃┃ ┃┣┓┏┳━┳━━┳┓┏┫┗━┳━┻┓┏┛
-┃┗━┛┃┃┃┃┏┫┏┓┣╋╋┫┏┓┃┏┓┃┃
+┃🐲D R A G O N 🦚 B O T 🐲
 ┃┏━┓┃┗┛┃┃┃┏┓┣╋╋┫┗┛┃┗┛┃┗┓
 ┗┛ ┗┻━━┻┛┗┛┗┻┛┗┻━━┻━━┻━┛
 
-Legendary LEGENDBOT
-@LEGEND SUPPORT
+🐲THE LITTLE DRAGON OF SHAIL🐲
+
 """
 
 python3 string_session.py
