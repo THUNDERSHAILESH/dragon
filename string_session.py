@@ -7,17 +7,17 @@ from colorama import Fore, Style, Back
 aura = """
 ╔╗──╔═══╦═══╦═══╦═╗─╔╦═══╦═══╦═══╦╗──╔╗
 ║║──║╔══╣╔═╗║╔══╣║╚╗║╠╗╔╗║╔═╗║╔═╗║╚╗╔╝║  
-║║──║╚══╣║─╚╣╚══╣╔╗╚╝║║║║║║─║║╚═╝╠╗╚╝╔╝  
-║║─╔╣╔══╣║╔═╣╔══╣║╚╗║║║║║║╚═╝║╔╗╔╝╚╗╔╝   
-║╚═╝║╚══╣╚╩═║╚══╣║─║║╠╝╚╝║╔═╗║║║╚╗─║║   
+ ●●●●●●●●🐲D R A G O N   🦚  U S E R B O T 🐲●●●●●●●
+║║─  
+║╚═╝║╚══╣╚╩═║╚══╣║─║║╠╝╚╝║╔═╗║║║  
 ╚═══╩═══╩═══╩═══╩╝─╚═╩═══╩╝─╚╩╝╚═╝─╚╝   
 """
 logo = """
 
 """
 bhai_bolte = """
-#Legendary LEGENDBOT          
-Made With Love By Team LEGENDBOT
+#🐲LITTLE DRAGON OF SHAIL 🐲         
+Made With Love By Team DRAGON 
 """
                                                                                                             
 print("")
@@ -27,7 +27,7 @@ print(Style.BRIGHT + Fore.BLUE + logo)
 print(Style.RESET_ALL)
 print(Style.BRIGHT + Fore.CYAN + Back.BLUE + bhai_bolte)
 print(Style.RESET_ALL)
-print("""Welcome To LEGENDBOT String Generator By @LEGENDOwner""")
+print("""Welcome To DRAGONBOT String Generator By SHAIL DRAGON""")
 print("""Kindly Enter Your Details To Continue ! """)
 
 API_KEY = input("API_KEY: ")
@@ -41,11 +41,11 @@ while True:
             session = client.session.save()
             client.send_message(
                 "me",
-                f"Here is your TELEGRAM STRING SESSION\n(Tap to copy it)👇 \n\n `{session}` \n\n And Visit @LEGEND_Userbot For Any Help !",
+                f"Here is your TELEGRAM STRING SESSION\n(Tap to copy it)👇 \n\n `{session}` \n\n And CONSULT WITH SHAIL For Any Help !",
             )
 
             print(
-                "Thanks for Choosing LEGENDBOT Have A Good Time....Note That When You Terminate the Old Session ComeBack And Genrate A New String Session Old One Wont Work"
+                "Thanks for Choosing DRAGONBOT Have A Good Time....Note That When You Terminate the Old Session ComeBack And Genrate A New String Session Old One Wont Work"
             )
     except:
         print("")
